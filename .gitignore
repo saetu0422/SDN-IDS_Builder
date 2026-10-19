@@ -1,0 +1,10 @@
+__pycache__/
+runs/
+uploads/
+*.pyc
+/preview-*.png
+/sdn-ids-project.zip
+/examples/sdn-ids-project/
+.venv/
+.env
+.env.*
