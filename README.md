@@ -1,4 +1,8 @@
-# Assembly — SDN IDS Studio
+# SDN-IDS_Builder
+
+이 프로젝트는 **GPT를 활용하여 제작하였습니다.**
+
+Assembly — SDN IDS Studio
 
 알고리즘 선택 → 구조도 연결 및 규격 검사 → PyTorch 코드 생성 → 실제 학습·검증을 수행하는 로컬 MVP입니다.
 
